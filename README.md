@@ -41,10 +41,10 @@ The data was collected during 2010-2018 by citizen observers.
 
 
 ## Efforts by California Roadkill Observations System
-### 1. roadkill hotspot map & cost estimate:  
+1. roadkill hotspot map & cost estimate:  
     comminucation with California Department of Transportation for building fences in hotspots, 
     where cost of building fences is an order cheaper than deer collision.  
 
-### 2. real time hotspot map:  
+2. real time hotspot map:  
     real time warning to drivers at hotspots. This needs much more and better location data to function. Currently
     only 15% of public data contains location information.
