@@ -4,7 +4,6 @@
 ## Roadkill
    animals being struck by motor vehicles on roads
    
-------------------------------------------------------------------------------------------------------------------  
   
 ## Impact
 Roadkills have wide impact on humankind and wildlife.  
@@ -17,7 +16,6 @@ animal roadkill causes human safety concerns and high cost that concerns governm
 
 human activities have exterminated 60% of wildlife in the last 40 years; reasons include over-consumption and diminished habitat,to which animal roadkills contribute. The Federal Highway Administration announced that roadkill is threatening 21 endangered animal species. 
 
-------------------------------------------------------------------------------------------------------------------  
 
 
 
@@ -29,7 +27,6 @@ human activities have exterminated 60% of wildlife in the last 40 years; reasons
 as well as making suggestions on public outreach and data collection techniques (mobile app development)
 to increase data collection frequency and location accuracy.
 
-------------------------------------------------------------------------------------------------------------------  
 
 
 
@@ -38,7 +35,6 @@ to increase data collection frequency and location accuracy.
 2. roadkill cost ~10 billions for California per year   
 3. speed limit doesn't have an effect on the occurence of roadkills  
 
-------------------------------------------------------------------------------------------------------------------  
 ## Data
 ~40,000 roadkill entries webscraped from California Roadkill Observations System.  
 The data was collected during 2010-2018 by citizen observers.  
