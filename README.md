@@ -3,7 +3,7 @@
 Full Presentation in Jupyter Notebook:
 https://nbviewer.jupyter.org/github/ommnmm/California_Roadkill_Analysis/blob/master/animal_roadkill_california_analysis.ipynb
 
-## Roadkill
+## Roadkill definition
    animals being struck by motor vehicles on roads
    
   
